@@ -1,0 +1,17 @@
+# Gradle e Maven
+/target/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Arquivos de ambiente
+.env
+
+# macOS
+.DS_Store
